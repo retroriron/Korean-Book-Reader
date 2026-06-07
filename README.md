@@ -20,7 +20,7 @@
 * **텍스트 분석 및 교정 (OCR Worker Thread):** 관심 영역 이미지 크롭, EasyOCR 기반 텍스트 추출, OpenAI API를 활용한 오타 교정 및 문장 유사도 비교 필터링 처리
 * **음성 출력 제어 (TTS Worker Thread):** gTTS를 이용한 한국어 오디오 파일 생성 및 Pygame Mixer를 통한 독립적인 오디오 장치 제어 및 재생 수행
 
-## 4. 시작하기 (Getting Started)
+## 4. 시작하기
 
 ### 필수 패키지 설치
 프로그램 실행을 위해 아래 라이브러리를 설치해야 합니다.
